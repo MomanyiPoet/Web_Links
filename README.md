@@ -8,6 +8,7 @@
 
 - (SVG's)
 1. https://bgjar.com/
+2. https://undraw.co/illustrations
 
 ## HTML, CSS, JS, REACT
 1. https://www.theodinproject.com/
