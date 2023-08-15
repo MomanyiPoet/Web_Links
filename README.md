@@ -6,6 +6,9 @@
 1. https://www.toools.design/
 2. https://10015.io/
 
+- (SVG's)
+1. https://bgjar.com/
+
 ## HTML, CSS, JS, REACT
 1. https://www.theodinproject.com/
 
