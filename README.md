@@ -2,8 +2,9 @@
 
 ## TECH TIPS
 - (Image Compressor) https://squoosh.app/
-- (Design Resources) https://www.toools.design/
-                     https://10015.io/
+- (Design Resources)
+1. https://www.toools.design/
+2. https://10015.io/
 
 ## HTML, CSS, JS, REACT
 
