@@ -1,6 +1,7 @@
 ### The following Repo contains various links to different Tech websites
 
 ## TECH TIPS
+- (Image Compressor) https://squoosh.app/
 
 ## HTML, CSS, JS, REACT
 
