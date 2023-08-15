@@ -7,6 +7,7 @@
 2. https://10015.io/
 
 ## HTML, CSS, JS, REACT
+1. https://www.theodinproject.com/
 
 ## DJANGO, PYTHON
 - (Django crispy forms) https://django-crispy-forms.readthedocs.io/en/latest/install.html
