@@ -6,10 +6,14 @@
 1. https://www.toools.design/
 2. https://10015.io/
 
-- (SVG's)
+- (SVG's)/ Illustrations
 1. https://bgjar.com/
 2. https://undraw.co/illustrations
 3. https://humaaans.com/
+4. https://fullstackopen.com/
+5. https://getloaf.io/ - illustrations
+6. https://undraw.co/ - illustrations
+7. https://iradesign.io/ - illustrations
 
 ## HTML, CSS, JS, REACT
 1. https://www.theodinproject.com/
