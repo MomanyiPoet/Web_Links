@@ -35,3 +35,6 @@
 ## TECH HACKS
 ### SHOW WIFI PASSWORD
 - netsh wlan show profile name="" key=clear | findstr Key
+
+### SHOW WINDOWS PRODUCT KEY
+- wmic path softwareLicensingService get OA3xOriginalProductKey
