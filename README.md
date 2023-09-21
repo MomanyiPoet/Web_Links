@@ -1,4 +1,4 @@
-### The following Repo contains various links to different Tech websites
+### The following Repo contains various links to different Tech websites and Tech Hacks
 
 ## TECH CONTENT
 - (Image Compressor) https://squoosh.app/
@@ -25,7 +25,9 @@
 - (PLP Cohort 3 Python Sessions Recordings) https://docs.google.com/document/d/1lBfhJhWBBpbGiR0cZ-Lt_nKrG2pHXrFIWIwv-ZCLV4Q/edit
 - (Django Free Responsive Animated Admin Dashboard Template) https://therichpost.com/django-free-responsive-animated-admin-dashboard-template/
 - (Content Aggregator) https://realpython.com/build-a-content-aggregator-python/
-- 
+
+## SHOW WIFI PASSWORD
+- netsh wlan show profile name="" key=clear | findstr Key
 
 
 ## KCA
