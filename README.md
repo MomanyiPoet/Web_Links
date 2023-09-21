@@ -1,6 +1,6 @@
 ### The following Repo contains various links to different Tech websites
 
-## TECH TIPS
+## TECH CONTENT
 - (Image Compressor) https://squoosh.app/
 - (Design Resources)
 1. https://www.toools.design/
@@ -15,8 +15,9 @@
 6. https://undraw.co/ - illustrations
 7. https://iradesign.io/ - illustrations
 
-## HTML, CSS, JS, REACT
+## HTML, CSS, BOOTSTRAP, JS, REACT
 1. https://www.theodinproject.com/
+2. https://bootstrapmade.com/
 
 ## DJANGO, PYTHON
 - (Django crispy forms) https://django-crispy-forms.readthedocs.io/en/latest/install.html
