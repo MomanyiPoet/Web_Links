@@ -5,6 +5,8 @@
 - (Design Resources)
 1. https://www.toools.design/
 2. https://10015.io/
+3. https://coolors.co/ - color pallets
+4. https://cssgradient.io/ - css gradients/illustrator
 
 - (SVG's)/ Illustrations
 1. https://bgjar.com/
@@ -33,8 +35,8 @@
 - (Classes PLP Cohort 3 - Database) https://docs.google.com/spreadsheets/d/1-pInah6enP2ILBvIRIPt01Symz0sGTGEwvolFPRqYIU/edit#gid=0
 
 ## TECH HACKS
-### SHOW WIFI PASSWORD
+1. SHOW WIFI PASSWORD
 - netsh wlan show profile name="" key=clear | findstr Key
 
-### SHOW WINDOWS PRODUCT KEY
+2. SHOW WINDOWS PRODUCT KEY
 - wmic path softwareLicensingService get OA3xOriginalProductKey
