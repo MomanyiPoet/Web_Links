@@ -15,23 +15,23 @@
 6. https://undraw.co/ - illustrations
 7. https://iradesign.io/ - illustrations
 
-## HTML, CSS, BOOTSTRAP, JS, REACT
+### HTML, CSS, BOOTSTRAP, JS, REACT
 1. https://www.theodinproject.com/
 2. https://bootstrapmade.com/ - bootstrap templates
 3. https://tympanus.net/codrops/ - animations
 
-## DJANGO, PYTHON
+### DJANGO, PYTHON
 - (Django crispy forms) https://django-crispy-forms.readthedocs.io/en/latest/install.html
 - (PLP Cohort 3 Python Sessions Recordings) https://docs.google.com/document/d/1lBfhJhWBBpbGiR0cZ-Lt_nKrG2pHXrFIWIwv-ZCLV4Q/edit
 - (Django Free Responsive Animated Admin Dashboard Template) https://therichpost.com/django-free-responsive-animated-admin-dashboard-template/
 - (Content Aggregator) https://realpython.com/build-a-content-aggregator-python/
 
-## SHOW WIFI PASSWORD
-- netsh wlan show profile name="" key=clear | findstr Key
-
-
-## KCA
+### KCA
 - (Attachmet May - August 2023) https://docs.google.com/spreadsheets/d/1qCXplX_VVWpRT9QiSLXN_TL6zv0JUvg3cIukeEOnKhM/edit#gid=0
 
-## DATABASE. MYSQL
+### DATABASE. MYSQL
 - (Classes PLP Cohort 3 - Database) https://docs.google.com/spreadsheets/d/1-pInah6enP2ILBvIRIPt01Symz0sGTGEwvolFPRqYIU/edit#gid=0
+
+## TECH HACKS
+- ## SHOW WIFI PASSWORD
+- netsh wlan show profile name="" key=clear | findstr Key
