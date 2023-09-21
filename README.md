@@ -17,7 +17,8 @@
 
 ## HTML, CSS, BOOTSTRAP, JS, REACT
 1. https://www.theodinproject.com/
-2. https://bootstrapmade.com/
+2. https://bootstrapmade.com/ - bootstrap templates
+3. https://tympanus.net/codrops/ - animations
 
 ## DJANGO, PYTHON
 - (Django crispy forms) https://django-crispy-forms.readthedocs.io/en/latest/install.html
