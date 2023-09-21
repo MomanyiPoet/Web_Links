@@ -32,6 +32,6 @@
 ### DATABASE. MYSQL
 - (Classes PLP Cohort 3 - Database) https://docs.google.com/spreadsheets/d/1-pInah6enP2ILBvIRIPt01Symz0sGTGEwvolFPRqYIU/edit#gid=0
 
-### TECH HACKS
-- ## SHOW WIFI PASSWORD
+## TECH HACKS
+### SHOW WIFI PASSWORD
 - netsh wlan show profile name="" key=clear | findstr Key
