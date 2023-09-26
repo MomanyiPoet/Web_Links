@@ -7,6 +7,10 @@
 2. https://10015.io/
 3. https://coolors.co/ - color pallets
 4. https://cssgradient.io/ - css gradients/illustrator
+5. https://smartserials.com/ - serial keys
+6. https://www.producthunt.com/ - trending apps
+7. https://jitter.video/ - animate video
+8. https://github.com/public-apis/public-apis - free public api's
 
 - (SVG's)/ Illustrations
 1. https://bgjar.com/
@@ -21,6 +25,9 @@
 1. https://www.theodinproject.com/
 2. https://bootstrapmade.com/ - bootstrap templates
 3. https://tympanus.net/codrops/ - animations
+4. https://www.landingfolio.com/ webpage templates
+5. https://animatedbackgrounds.me/ - animated backgrounds
+6. https://overapi.com/ - all tech cheatsheets
 
 ### DJANGO, PYTHON
 - (Django crispy forms) https://django-crispy-forms.readthedocs.io/en/latest/install.html
@@ -40,3 +47,10 @@
 
 2. SHOW WINDOWS PRODUCT KEY
 - wmic path softwareLicensingService get OA3xOriginalProductKey
+
+### LITERATURE DOWNLOAD (BOOKS, NOVELS)
+- https://www.onread.com/ - Books
+
+### OTHER CONTENTS
+- https://www.wcofun.org/ - cartoon website
+- 
