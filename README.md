@@ -11,6 +11,13 @@
 6. https://www.producthunt.com/ - trending apps
 7. https://jitter.video/ - animate video
 8. https://github.com/public-apis/public-apis - free public api's
+9. https://www.frontendmentor.io/ - frontend mentor
+10. https://ideasai.com/ - project ideas
+11. https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+12. https://huemint.com/ - AI Color generator
+13. https://haikei.app/ - SVG Designs
+14. https://www.codeplanner.co/ - Plan Code
+15. https://dronestock.com/ - videos by drones
 
 - (SVG's)/ Illustrations
 1. https://bgjar.com/
@@ -28,6 +35,13 @@
 4. https://www.landingfolio.com/ webpage templates
 5. https://animatedbackgrounds.me/ - animated backgrounds
 6. https://overapi.com/ - all tech cheatsheets
+7. https://htmlrev.com/ - free templates
+8. https://uideck.com/ - templates and UI Kits
+9. https://html5up.net/ - html5up templates
+10. https://templatemo.com/ - HTML, CSS website templates
+11. https://github.com/Asabeneh/30-Days-Of-React - 30days of REACT
+12. https://superdesigner.co/tools/css-backgrounds - CSS Background patterns
+13. https://themeforest.net/ - paid templates
 
 ### DJANGO, PYTHON
 - (Django crispy forms) https://django-crispy-forms.readthedocs.io/en/latest/install.html
