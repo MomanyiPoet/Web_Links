@@ -21,6 +21,7 @@
 16. https://finisher.co/lab/header/ - Animated background header
 17. https://bgjar.com/ - svg backgrounds
 18. http://michalsnik.github.io/aos/ - animate on scroll
+19. https://spline.design/ - 3D interactivity
 
 ### WEB DESIGN
 1. https://www.awwwards.com/
