@@ -67,4 +67,6 @@
 
 ### OTHER CONTENTS
 - https://www.wcofun.org/ - cartoon website
-- 
+
+### Excel Content
+- https://excel-practice-online.com/ - Excel Practice
