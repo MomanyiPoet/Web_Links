@@ -18,6 +18,17 @@
 13. https://haikei.app/ - SVG Designs
 14. https://www.codeplanner.co/ - Plan Code
 15. https://dronestock.com/ - videos by drones
+16. https://finisher.co/lab/header/ - Animated background header
+17. https://bgjar.com/ - svg backgrounds
+18. http://michalsnik.github.io/aos/ - animate on scroll
+
+### WEB DESIGN
+1. https://www.awwwards.com/
+2. https://www.siteinspire.com/
+3. https://www.behance.net/
+4. https://www.pinterest.com/
+5. https://www.pixelsquid.com/ - png/images
+
 
 - (SVG's)/ Illustrations
 1. https://bgjar.com/
@@ -67,6 +78,8 @@
 
 ### OTHER CONTENTS
 - https://www.wcofun.org/ - cartoon website
+- https://invidious.kavin.rocks/ - youtube alternative
+- https://futurecodersweb.com/ - front-end dev projects
 
 ### Excel Content
 - https://excel-practice-online.com/ - Excel Practice
