@@ -29,6 +29,7 @@
 3. https://www.behance.net/
 4. https://www.pinterest.com/
 5. https://www.pixelsquid.com/ - png/images
+6. https://clipdrop.co/ - ai tool
 
 
 - (SVG's)/ Illustrations
