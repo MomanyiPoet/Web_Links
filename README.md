@@ -1,16 +1,21 @@
 # The following contains various web links to different Tech websites and Tech Hacks
 
 ## A.I
+> FONTS
+1. https://www.dafont.com/
+
+
 > IMAGES
-1. https://huemint.com/ > AI Color generator
+1. https://huemint.com/ > AI Color pallet generator
 2. https://clipdrop.co/ > AI images
 3. https://www.fotor.com/ > AI image design/crop/upscale
+4. https://looka.com/ > AI brand design/logo/brand kit
 
 ## TECH CONTENTS
 > IMAGES
 1. https://squoosh.app/ >  image Compressor
 2. https://www.pixelsquid.com/ > png/images
-
+3. https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif > 404 page error gif
 
 > TECH WEBSITES
 1. https://www.toools.design/
@@ -19,6 +24,8 @@
 4. https://www.producthunt.com/ > trending apps
 5. https://github.com/public-apis/public-apis > free public api's
 6. https://smartserials.com/ > serial keys
+7. https://github.com/john-smilga/react-projectss
+8. https://ui8.net/ > illustrator/mockups
 
 > HTML CSS JS BOOTSTRAP TAILWIND REACT
 1. https://bootstrapmade.com/ > bootstrap templates
@@ -29,6 +36,7 @@
 6. https://www.landingfolio.com/ > webpage templates
 7. https://superdesigner.co/tools/css-backgrounds > CSS Background patterns
 8. https://themeforest.net/ > paid templates
+9. https://uiverse.io/ > html css components
 
 
 > DESIGN
@@ -49,6 +57,10 @@
 15. https://iradesign.io/ > illustrations
 16. https://tympanus.net/codrops/ > animations
 17. https://animatedbackgrounds.me/ > animated backgrounds
+18. https://www.drawkit.com/ > illustrations
+19. https://studio.polotno.com/ > canva alternative
+20. https://rotato.app/ > 3D mockups and videos
+21. https://www.softr.io/tools > svg generator
 
 
 > DESIGN INSPIRATION WEBSITES
@@ -67,6 +79,9 @@
 6. https://overapi.com/ > all tech cheatsheets
 7. https://github.com/Asabeneh/30>Days-Of-React > 30days of REACT
 8. https://futurecodersweb.com/ > front-end dev projects
+9. https://academy.hubspot.com/ > free courses and certifications
+10. https://github.com/bradtraversy/50projects50days
+11, https://quickref.me/index.html > all tech cheatsheets
 
 
 ## DJANGO, PYTHON
@@ -83,6 +98,7 @@
 
 > LEARNING
 1. https://docs.google.com/document/d/1lBfhJhWBBpbGiR0cZ-Lt_nKrG2pHXrFIWIwv-ZCLV4Q/edit > PLP Cohort 3 Python Sessions Recordings
+2. https://github.com/Asabeneh/30-Days-Of-Python
 
 
 ## DATABASE MYSQL
@@ -98,6 +114,18 @@ netsh wlan show profile name="" key=clear | findstr Key
 
 # display windows product key
 wmic path softwareLicensingService get OA3xOriginalProductKey
+
+# scan and repair drive
+chkdsk
+
+#get mobile IMEI number
+*#06#
+```
+
+2. COMMAND + R
+```
+# list of machine users access
+netplwiz
 ```
 
 
