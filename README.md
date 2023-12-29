@@ -1,6 +1,10 @@
 # The following contains various web links to different Tech websites and Tech Hacks
 
 ## A.I
+> GENARATIVE CONTENT
+1. https://you.com/
+
+
 > FONTS
 1. https://www.dafont.com/
 
@@ -81,7 +85,10 @@
 8. https://futurecodersweb.com/ > front-end dev projects
 9. https://academy.hubspot.com/ > free courses and certifications
 10. https://github.com/bradtraversy/50projects50days
-11, https://quickref.me/index.html > all tech cheatsheets
+11. https://quickref.me/index.html > all tech cheatsheets
+12. https://digitaldefynd.com/?wsmenubar > free courses
+13. https://visualgo.net/en > data structures and algorithms
+14. https://coddy.tech/pricing
 
 
 ## DJANGO, PYTHON
@@ -133,9 +140,10 @@ netplwiz
 > DOWNLOAD (BOOKS, NOVELS)
 1. https://www.onread.com/ > Books
 
-## REALATED CONTENTS
+## RELATED CONTENTS
 1. https://www.wcofun.org/ - cartoon website
 2. https://invidious.kavin.rocks/ - youtube alternative
-3. https://excel-practice-online.com/ - Excel Practice
+3. https://excel-practice-online.com/ - excel Practice
+4. https://emupedia.net/beta/emuos/ > classic games
 
 # CREATED BY MOMANYI_BRIAN_DEV
