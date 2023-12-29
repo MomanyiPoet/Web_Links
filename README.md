@@ -89,6 +89,7 @@
 12. https://digitaldefynd.com/?wsmenubar > free courses
 13. https://visualgo.net/en > data structures and algorithms
 14. https://coddy.tech/pricing
+15. https://github.com/public-apis/public-apis
 
 
 ## DJANGO, PYTHON
