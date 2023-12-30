@@ -1,13 +1,16 @@
 # The following contains various web links to different Tech websites and Tech Hacks
 
 ## A.I
+> WRITING
+1. https://jenni.ai/
+
 > GENARATIVE CONTENT
 1. https://you.com/
-
+2. https://namelix.com/ > busines brand name
+3. https://www.coverquick.co/ > cover letters, resume
 
 > FONTS
 1. https://www.dafont.com/
-
 
 > IMAGES
 1. https://huemint.com/ > AI Color pallet generator
@@ -27,7 +30,7 @@
 3. https://cssgradient.io/ > css gradients/illustrator/backgrounds
 4. https://www.producthunt.com/ > trending apps
 5. https://github.com/public-apis/public-apis > free public api's
-6. https://smartserials.com/ > serial keys
+6. 
 7. https://github.com/john-smilga/react-projectss
 8. https://ui8.net/ > illustrator/mockups
 
@@ -90,6 +93,9 @@
 13. https://visualgo.net/en > data structures and algorithms
 14. https://coddy.tech/pricing
 15. https://github.com/public-apis/public-apis
+16. https://code-projects.org/ > source code and projects
+17. https://futurecoder.io/ > python
+18. https://learn-anything.xyz/ > learn anything
 
 
 ## DJANGO, PYTHON
@@ -126,8 +132,8 @@ wmic path softwareLicensingService get OA3xOriginalProductKey
 # scan and repair drive
 chkdsk
 
-#get mobile IMEI number
-*#06#
+# check corrupt files in pc
+DISM /Online /Cleanup-Image /CheckHealth
 ```
 
 2. COMMAND + R
@@ -136,15 +142,25 @@ chkdsk
 netplwiz
 ```
 
+3. MOBILE /PHONE
+```
+#get mobile IMEI number
+*#06#
+```
+
 
 ## LITERATURE
 > DOWNLOAD (BOOKS, NOVELS)
 1. https://www.onread.com/ > Books
 
 ## RELATED CONTENTS
-1. https://www.wcofun.org/ - cartoon website
-2. https://invidious.kavin.rocks/ - youtube alternative
-3. https://excel-practice-online.com/ - excel Practice
+1. https://www.wcofun.org/ > cartoon website
+2. https://invidious.kavin.rocks/ > youtube alternative
+3. https://excel-practice-online.com/ > excel Practice
 4. https://emupedia.net/beta/emuos/ > classic games
+5. http://driveandlisten.herokuapp.com/ > cure boredom
+6. https://www.notion.so/ > write, plan, share
+7. https://mailtrack.io/en/ > mail tracking
+8. https://smartserials.com/ > serial keys
 
 # CREATED BY MOMANYI_BRIAN_DEV
