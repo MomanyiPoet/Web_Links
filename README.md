@@ -8,6 +8,9 @@
 1. https://you.com/
 2. https://namelix.com/ > busines brand name
 3. https://www.coverquick.co/ > cover letters, resume
+4. https://www.adcreative.ai/ > create advertisements
+5. https://www.coolgiftideas.io/ > gift ideas
+6. https://landingsite.ai/ > websites
 
 > FONTS
 1. https://www.dafont.com/
@@ -17,6 +20,7 @@
 2. https://clipdrop.co/ > AI images
 3. https://www.fotor.com/ > AI image design/crop/upscale
 4. https://looka.com/ > AI brand design/logo/brand kit
+5. https://www.upscale.media/ > upscale images
 
 ## TECH CONTENTS
 > IMAGES
@@ -30,7 +34,7 @@
 3. https://cssgradient.io/ > css gradients/illustrator/backgrounds
 4. https://www.producthunt.com/ > trending apps
 5. https://github.com/public-apis/public-apis > free public api's
-6. 
+6. https://publicapis.dev/ > public apis
 7. https://github.com/john-smilga/react-projectss
 8. https://ui8.net/ > illustrator/mockups
 
@@ -44,6 +48,7 @@
 7. https://superdesigner.co/tools/css-backgrounds > CSS Background patterns
 8. https://themeforest.net/ > paid templates
 9. https://uiverse.io/ > html css components
+10. https://elements.envato.com/ > website templates
 
 
 > DESIGN
@@ -68,6 +73,10 @@
 19. https://studio.polotno.com/ > canva alternative
 20. https://rotato.app/ > 3D mockups and videos
 21. https://www.softr.io/tools > svg generator
+22. https://www.csshero.org/mesher/ > mesh background gradients
+23. https://iconer.app/ > icons
+24. https://animejs.com/ > animation
+25. https://www.productioncrate.com/ > assets
 
 
 > DESIGN INSPIRATION WEBSITES
@@ -96,6 +105,8 @@
 16. https://code-projects.org/ > source code and projects
 17. https://futurecoder.io/ > python
 18. https://learn-anything.xyz/ > learn anything
+19. https://www.appacademy.io/course/app-academy-open > programming
+20. http://pythonprinciples.com/challenges/ > python, challenges
 
 
 ## DJANGO, PYTHON
@@ -140,6 +151,9 @@ DISM /Online /Cleanup-Image /CheckHealth
 ```
 # list of machine users access
 netplwiz
+
+# check RAM
+mdsched.exe
 ```
 
 3. MOBILE /PHONE
@@ -152,6 +166,26 @@ netplwiz
 ## LITERATURE
 > DOWNLOAD (BOOKS, NOVELS)
 1. https://www.onread.com/ > Books
+
+## TikTok
+1. @alenn.design > color paletes
+2. @enriquestory > instagram stories
+3. @aivhanjames > capcut
+4. @cod.lawson
+5. @exceldictionary > excel
+6. @mystic.js > programming
+7. @ericobanks_codestar > I.T
+8. @itcontents1 > I.T
+9. @befront.io > figma
+10. minifyp > life tricks
+11.@umacodes > software engineer
+12. @navi_softwares > software engineer
+13. @via_alankwek_oe > computer hacks
+14. @lewismenelaws > programming
+15. @devdotcode > programming
+16. @eguonormajemite > apis
+17. @advertigo > premium brand
+18. @denny.kurien > premium brand
 
 ## RELATED CONTENTS
 1. https://www.wcofun.org/ > cartoon website
