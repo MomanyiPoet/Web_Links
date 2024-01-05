@@ -1,8 +1,14 @@
 # The following contains various web links to different Tech websites and Tech Hacks
 
+# PRODUCTIVITY
+1. https://xtiles.app/en
+
 ## A.I
 > WRITING
 1. https://jenni.ai/
+
+> RESUME
+1. https://wonderin.ai/
 
 > GENARATIVE CONTENT
 1. https://you.com/
@@ -11,6 +17,13 @@
 4. https://www.adcreative.ai/ > create advertisements
 5. https://www.coolgiftideas.io/ > gift ideas
 6. https://landingsite.ai/ > websites
+7. https://logodiffusion.com/ > logos
+8. https://uizard.io/ > website designs
+9. https://usestyle.ai/ > SEO, webdesign
+10 https://www.recraft.ai/ > vector art, icons, digital illustrations, and 3D graphics
+11 https://gamma.app/ > presentation
+12. https://10web.io/ > website builder
+13. https://www.builder.io/m/pricing > figma to code
 
 > FONTS
 1. https://www.dafont.com/
@@ -21,12 +34,15 @@
 3. https://www.fotor.com/ > AI image design/crop/upscale
 4. https://looka.com/ > AI brand design/logo/brand kit
 5. https://www.upscale.media/ > upscale images
+6. https://www.zmo.ai/
+7. https://imgcreator.zmo.ai/ > potrait, editor, generator
 
 ## TECH CONTENTS
 > IMAGES
 1. https://squoosh.app/ >  image Compressor
 2. https://www.pixelsquid.com/ > png/images
 3. https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif > 404 page error gif
+4. https://tinypng.com/ > image Compressor
 
 > TECH WEBSITES
 1. https://www.toools.design/
@@ -37,6 +53,9 @@
 6. https://publicapis.dev/ > public apis
 7. https://github.com/john-smilga/react-projectss
 8. https://ui8.net/ > illustrator/mockups
+9. https://github.com/abi/screenshot-to-code
+10. https://thestocks.im/ > design resources
+11. https://github.com/ripienaar/free-for-dev
 
 > HTML CSS JS BOOTSTRAP TAILWIND REACT
 1. https://bootstrapmade.com/ > bootstrap templates
@@ -77,6 +96,14 @@
 23. https://iconer.app/ > icons
 24. https://animejs.com/ > animation
 25. https://www.productioncrate.com/ > assets
+26. https://previewed.app/ > mockups
+27. https://www.mockupworld.co/ > mockups
+28. https://mockrocket.io/ > mockups
+29. https://www.freefaces.gallery/ > fonts
+30. https://brandfetch.com/ > brand logos
+31. https://getwaves.io/ > svg wave designs
+32. https://motion.dev/ > animation library
+22. https://designhacks.online/ > animated popups
 
 
 > DESIGN INSPIRATION WEBSITES
@@ -84,6 +111,11 @@
 2. https://www.siteinspire.com/
 3. https://www.behance.net/
 4. https://www.pinterest.com/
+5. https://appshots.design/ > mobile apps
+6. https://refero.design/
+7. https://pagecollective.com/
+8. https://land-book.com/
+9. https://www.lapa.ninja/
 
 
 > LEARNING
@@ -107,6 +139,15 @@
 18. https://learn-anything.xyz/ > learn anything
 19. https://www.appacademy.io/course/app-academy-open > programming
 20. http://pythonprinciples.com/challenges/ > python, challenges
+21. https://dash.generalassemb.ly/ > html, css, js
+22. https://learningseo.io/ > SEO
+
+>> SKILL PRACTICE
+1. https://www.hackerrank.com/ > python, sql
+2. https://leetcode.com/
+3. https://www.codechef.com/learn > all programs'
+4. https://www1.proprofs.com/quiz-school/browse > networking quizes
+5. https://www.30secondsofcode.org/ > code snippets
 
 
 ## DJANGO, PYTHON
@@ -140,11 +181,18 @@ netsh wlan show profile name="" key=clear | findstr Key
 # display windows product key
 wmic path softwareLicensingService get OA3xOriginalProductKey
 
+#display serial number
+wmic bios get serialnumber
+
 # scan and repair drive
 chkdsk
 
 # check corrupt files in pc
 DISM /Online /Cleanup-Image /CheckHealth
+
+# update all apps in windows pc
+winget upgrade
+winget upgrade --all
 ```
 
 2. COMMAND + R
@@ -186,6 +234,9 @@ mdsched.exe
 16. @eguonormajemite > apis
 17. @advertigo > premium brand
 18. @denny.kurien > premium brand
+19. @mrayan_design > harmony logo, color
+20. @code_day > premeium color, textures, fonts
+21. @greglangstaff > resumes
 
 ## RELATED CONTENTS
 1. https://www.wcofun.org/ > cartoon website
@@ -196,5 +247,6 @@ mdsched.exe
 6. https://www.notion.so/ > write, plan, share
 7. https://mailtrack.io/en/ > mail tracking
 8. https://smartserials.com/ > serial keys
+9. https://simplify.jobs
 
 # CREATED BY MOMANYI_BRIAN_DEV
